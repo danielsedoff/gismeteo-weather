@@ -1,0 +1,7 @@
+gismeteo-weather
+
+This small PHP script downloads the Gismeteo page for Moscow
+and outputs the current weather as measured there, while
+not displaying any other information.
+
+
